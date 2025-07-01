@@ -99,5 +99,5 @@
     Gender: Female
     Age: 38-43 years
     
-<img src="Example/Detecting age and gender woman1.png">
+<img src="Detecting age and gender woman1.png">
               
