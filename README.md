@@ -63,37 +63,37 @@
     Gender: Female
     Age: 25-32 years
     
-<img src="Example/Detecting age and gender girl1.png">
+<img src="Detecting age and gender girl1.png">
 
     >python detect.py --image girl2.jpg
     Gender: Female
     Age: 8-12 years
     
-<img src="Example/Detecting age and gender girl2.png">
+<img src="Detecting age and gender girl2.png">
 
     >python detect.py --image kid1.jpg
     Gender: Male
     Age: 4-6 years    
     
-<img src="Example/Detecting age and gender kid1.png">
+<img src="Detecting age and gender kid1.png">
 
     >python detect.py --image kid2.jpg
     Gender: Female
     Age: 4-6 years  
     
-<img src="Example/Detecting age and gender kid2.png">
+<img src="Detecting age and gender kid2.png">
 
     >python detect.py --image man1.jpg
     Gender: Male
     Age: 38-43 years
     
-<img src="Example/Detecting age and gender man1.png">
+<img src="Detecting age and gender man1.png">
 
     >python detect.py --image man2.jpg
     Gender: Male
     Age: 25-32 years
     
-<img src="Example/Detecting age and gender man2.png">
+<img src="Detecting age and gender man2.png">
 
     >python detect.py --image woman1.jpg
     Gender: Female
